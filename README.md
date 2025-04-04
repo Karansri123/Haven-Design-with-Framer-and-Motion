@@ -1,4 +1,4 @@
-A luxurious, interactive website for Haven Interiors, a high-end home interior design studio. Built with React and animated with Framer Motion, this project delivers an immersive browsing experience with cinematic transitions, 3D room previews, and elegant micro-interactions that reflect premium interior craftsmanship.
+A luxurious, interactive website for Haven Interiors, a high-end home interior design studio. Built with React and animated with Framer Motion, this project delivers an immersive browsing experience with cinematic transitions, and elegant micro-interactions that reflect premium interior craftsmanship.
 
 Key Features
 ✨ Visual Showcase – Smooth animated galleries for before/after projects, mood boards, and design concepts.
@@ -12,4 +12,4 @@ React (Vite) – Fast, component-based architecture
 
 Framer Motion – Advanced scroll/gesture animations
 
-CSS Modules/SCSS – Maintainable, design-centric styling
+Tailwind CSS Modules/SCSS – Maintainable, design-centric styling
