@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import Logo from "../../assets/logo.png";
+import Logo from "../../assets/logo.png"
 import {motion} from "framer-motion";
 
 const NavLinks = [
