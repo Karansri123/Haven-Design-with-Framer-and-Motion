@@ -3,7 +3,7 @@ import React from "react";
 import { FaPhone } from "react-icons/fa";
 import { LuMessageSquare } from "react-icons/lu";
 import { FiGithub, FiLinkedin } from "react-icons/fi";
-import Logo from "../../assets/logo.png";
+import Logo from "../../assets/Logo.png";
 import { motion } from "framer-motion";
 import { SlideLeft } from "../../Animation/Animate";
 
